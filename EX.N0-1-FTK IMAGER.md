@@ -52,7 +52,8 @@ A dialog box will appear where you configure where and how the memory will be sa
 <br>
 <br>
 
-![WhatsApp Image 2025-08-31 at 18 27 20_7f94d810](https://github.com/user-attachments/assets/93d7f029-fec3-457b-a556-daee20b4efec)
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/753b6aa3-c0f5-4906-bc47-87999362bf91" />
+
 
 
  
@@ -65,7 +66,8 @@ A dialog box will appear where you configure where and how the memory will be sa
 <br>
 
 
-![WhatsApp Image 2025-08-31 at 18 52 10_13b00787](https://github.com/user-attachments/assets/467a2be0-25fe-4692-ba2f-515646b9c646)
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/04f5ddf9-a8a8-41ef-8094-a0895cf072f7" />
+
 
 <br>
 <br>
@@ -155,7 +157,8 @@ A window will appear asking you to choose the source type:
   - This information is stored in the image metadata (important for documentation).
  <p align="center">
 
-  ![WhatsApp Image 2025-09-01 at 14 33 24_ded7a4d9](https://github.com/user-attachments/assets/a7fe8996-42e4-41d3-a707-5c71dae84021)
+  <img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/ed18f099-42ca-4882-ba8f-81c96483758b" />
+
 
 
 </p>
@@ -174,7 +177,8 @@ A window will appear asking you to choose the source type:
   
 <p align="center">
 
- ![WhatsApp Image 2025-09-01 at 14 33 24_55a80fdc](https://github.com/user-attachments/assets/4f386cae-39bf-4563-9010-862784199687)
+<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/f2045e0a-46e2-49ba-bd05-fba7888cf668" />
+
 
 <br>
 <br>
