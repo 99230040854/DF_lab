@@ -132,9 +132,6 @@ A window will appear asking you to choose the source type:
   <br>
 <br>
 <p align="center">
-![WhatsApp Image 2025-08-31 at 19 02 32_1573ce9b](https://github.com/user-attachments/assets/f7cfc9e5-a4ca-40fd-b6ae-aaa6b373e96d)
-
-
 <br>
 
 #### Options:
