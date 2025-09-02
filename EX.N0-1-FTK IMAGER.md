@@ -192,7 +192,8 @@ A window will appear asking you to choose the source type:
   <br>
   <p align="center">
  
- ![WhatsApp Image 2025-08-31 at 22 46 56_9402ad29](https://github.com/user-attachments/assets/28a90902-c1e8-48d8-b2be-b59b104033e7)
+ <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/336cbde7-3182-44bd-b438-7f18fcc2494d" />
+
 
  <img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/a23f3fd9-fd2f-48ea-ad09-5ea6ce7684ff" />
 
