@@ -7,7 +7,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 
 ### 2. Starting a New Case
 - Open Autopsy: Launch the application after installation.
-- <img width="989" height="550" alt="Screenshot 2025-10-26 210447" src="https://github.com/user-attachments/assets/4614d52d-b02b-4a7b-9af8-52c4b96326ac" />
+-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f784935-2934-4107-be78-7a73dbc5ccf9" />
 
 - Create a New Case:
      <br>
