@@ -51,8 +51,7 @@ To investigate potentially harmful processes:
    Right-click → **Properties** → **TCP/IP** tab. Unexpected external connections require attention. 
 
 ---
-<img width="787" height="591" alt="Screenshot 2025-10-27 213216" src="https://github.com/user-attachments/assets/c3817bb0-b496-4c92-9e17-d1ce1bd2b2a6" />
-
+<img width="787" height="562" alt="506105551-c3817bb0-b496-4c92-9e17-d1ce1bd2b2a6" src="https://github.com/user-attachments/assets/3c30e141-073b-41ba-ac0f-037c6d56723f" />
 
 
 ### Step 4: Research Suspicious Processes 
@@ -61,7 +60,8 @@ To investigate potentially harmful processes:
 * Use databases like **VirusTotal** or **ProcessLibrary** to check for known malware. 
 
 
-<img width="782" height="598" alt="Screenshot 2025-10-27 213346" src="https://github.com/user-attachments/assets/78182b1a-c7a4-4bc3-a5bf-2d08fcd4ce28" />
+<img width="782" height="567" alt="506105638-78182b1a-c7a4-4bc3-a5bf-2d08fcd4ce28" src="https://github.com/user-attachments/assets/caf97ea2-ea2b-4c32-9926-b26f6af5d0b4" />
+
 
 ---
 
@@ -73,11 +73,11 @@ To investigate potentially harmful processes:
 
 ---
 
-<img width="776" height="584" alt="Screenshot 2025-10-27 213359" src="https://github.com/user-attachments/assets/7b652e63-1403-41ac-8b37-806d0f6bf431" />
+<img width="776" height="559" alt="3" src="https://github.com/user-attachments/assets/71912485-d007-44a1-ad75-18b5ea1b6b66" />
 
 
+<img width="773" height="563" alt="4" src="https://github.com/user-attachments/assets/fb8413ce-437d-4198-a6a4-148814a81588" />
 
-<img width="773" height="590" alt="Screenshot 2025-10-27 213432" src="https://github.com/user-attachments/assets/ecab9c3e-3d93-4adc-9e6c-ba218db8ae63" />
 
 
 
